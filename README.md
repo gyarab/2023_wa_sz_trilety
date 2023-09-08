@@ -8,3 +8,10 @@ S teammates jsme spolu trávili i čas mimo hřiště. Prozkoumávali jsme slovi
 
 Celé léto bylo pro mě nezapomenutelné, plné dobrodružství a nových zážitků. Tyto prázdniny budou v mém srdci navždy.
 Radim Tříletý
+
+# [Obrázky z turnaje](https://handball.eurofest.si/en/)
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaetkGI6pppnQ4P0VNSFeg1foE_pi2nLUWA&usqp=CAU)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLM_ldIl7Gez7iHbl1d4UMYq5V9pq2pLN_dvki_-lWA&s)
+
+
