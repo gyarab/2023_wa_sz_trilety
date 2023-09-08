@@ -8,7 +8,7 @@ S teammates jsme spolu trávili i čas mimo hřiště. Prozkoumávali jsme slovi
 
 Celé léto bylo pro mě nezapomenutelné, plné dobrodružství a nových zážitků. Tyto prázdniny budou v mém srdci navždy.
 
-A nakonec ze mám hodnocení:
+A nakonec zde mám hodnocení:
 
 
 |Země|Zábava|
