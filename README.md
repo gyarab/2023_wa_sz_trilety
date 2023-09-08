@@ -17,6 +17,7 @@ A nakonec ze mám hodnocení:
 |Slovinsko|9/10 |
 
 (Itálie má menší hodnocení, jelikož jsem se nemohl bavit s hodně lidma)
+
 Radim Tříletý
 
 # [Obrázky z turnaje](https://handball.eurofest.si/en/)
