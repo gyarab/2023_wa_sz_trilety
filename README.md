@@ -7,6 +7,16 @@ Po několika týdnech v Itálii jsem se vydal na cestu do Slovinska, kde jsem se
 S teammates jsme spolu trávili i čas mimo hřiště. Prozkoumávali jsme slovinské vesnice,  a navštěvovali nádherné přírodní památky.
 
 Celé léto bylo pro mě nezapomenutelné, plné dobrodružství a nových zážitků. Tyto prázdniny budou v mém srdci navždy.
+
+A nakonec ze mám hodnocení:
+
+
+|Země|Zábava|
+|----|------|
+|Itálie|8/10|
+|Slovinsko|9/10 |
+
+(Itálie má menší hodnocení, jelikož jsem se nemohl bavit s hodně lidma)
 Radim Tříletý
 
 # [Obrázky z turnaje](https://handball.eurofest.si/en/)
