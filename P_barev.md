@@ -29,3 +29,5 @@
 <figure> #FA9AFF
 
 ![image](https://www.colorhexa.com/fa9aff.png)
+
+- tyto barvy jsem si vybral z důvodu, mojí zálibi modrou barvou a ostavní přidané mi prostě sedli perfektně k ní. Taktéž se mi líbí jejich splinutí dohromady : jak modrá začíná úplně přecházet do tmavější až fialové a růžové.
