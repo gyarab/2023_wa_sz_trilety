@@ -10,4 +10,4 @@
   Zde u loga Pepsi má znázorňovat spíše tu sebejistotu a energii. Lépe také díky této barvě logo vyniká, jeliž je to první barva, kterou zaregistruji.
 - bílá: neurčitá a nejistá barva, která znázorňuje balanc
 
-  Zde u loga Pepsi má znázorňovat spíše už zmíněný pocit balancu. Má vyvolat pocit, že společnost Pepsi má balanc mezi klidem a energičností. Také proto je bílá barva na logu přesně mezi modrou a červenou. Každý totiž chce balanc.
+  Zde u loga Pepsi má znázorňovat spíše už zmíněný pocit balancu. Má vyvolat pocit, že společnost Pepsi má balanc mezi klidem a energičností. Také proto je bílá barva na logu přesně mezi modrou a červenou. Každý totiž chce BALANC.
