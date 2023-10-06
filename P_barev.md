@@ -1,1 +1,1 @@
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pepsi_logo_2014.svg/1509px-Pepsi_logo_2014.svg.png
+![image](https://cz3.staticac.cz/foto/compressor/2/8/282bc9c471d70779fa07cf7ccdfc5572.jpg)
