@@ -7,7 +7,7 @@
   Zde u loga Pepsi má znázorňovat spíše klid a ambice a pocit jistoty. Také má možná vyvolat pocit, že jejich nápoje jsou klidné (studené), proto všechny jejich plechovky mají na pozadí modrou barvu.
 - červená: vzrušující, anergická, prudká barva, která znázorňuje sebejistotu, troufalost
 
-  Zde u loga Pepsi má znázorňovat spíše tu sebejistotu a energii. Lépe také díky této barvě logo vyniká, jeliž je to první barva, kterou zaregistruji.
+  Zde u loga Pepsi má znázorňovat spíše tu sebejistotu a energii. Také díky této barvě logo vyniká, jeliž je to první barva, kterou zaregistruji.
 - bílá: neurčitá a nejistá barva, která znázorňuje balanc
 
   Zde u loga Pepsi má znázorňovat spíše už zmíněný pocit balancu. Má vyvolat pocit, že společnost Pepsi má balanc mezi klidem a energičností. Také proto je bílá barva na logu přesně mezi modrou a červenou. Každý totiž chce BALANC.
