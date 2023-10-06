@@ -16,3 +16,7 @@
 ## Moje barvy
 
 ![image](https://www.colorhexa.com/5ca7ff.png)
+![image](https://www.colorhexa.com/5c50e6.png)
+![image](https://www.colorhexa.com/620afa.png)
+![image](https://www.colorhexa.com/b049e6.png)
+![image](https://www.colorhexa.com/fa9aff.png)
