@@ -16,18 +16,18 @@
 ## Moje barvy
 <figure> #5C7EFF
 
-![image](https://www.colorhexa.com/5ca7ff.png) 
+![image](https://placehold.co/600x400/5C7EFF/00000) 
 <figure> #5C50E6
   
-![image](https://www.colorhexa.com/5c50e6.png)
+![image](https://placehold.co/600x400/5C50E6/00000)
 <figure> #620AFA
 
-![image](https://www.colorhexa.com/620afa.png)
+![image](https://placehold.co/600x400/620AFA/00000)
 <figure> #B049E6
 
-![image](https://www.colorhexa.com/b049e6.png)
+![image](https://placehold.co/600x400/B049E6/00000)
 <figure> #FA9AFF
 
-![image](https://www.colorhexa.com/fa9aff.png)
+![image](https://placehold.co/600x400/FA9AFF/00000)
 
 - Tyto barvy jsem si vybral z důvodu, mojí zálibi modrou barvou a ostavní přidané mi prostě sedli perfektně k ní. Taktéž se mi líbí jejich splinutí dohromady : jak modrá začíná úplně přecházet do tmavější až fialové a růžové.
