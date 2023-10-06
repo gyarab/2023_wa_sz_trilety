@@ -4,7 +4,7 @@
 
 - modrá: klidná barva, která může znázorňovat ambice, rozjímání, ale také smutku (což myslím, že zrovna zde neplatí)
 
-  Zde u loga Pepsi má znázorňovat spíše klid a ambice a pocit jistoty. 
+  Zde u loga Pepsi má znázorňovat spíše klid a ambice a pocit jistoty. Také má možná vyvolat pocit, že jejich nápoje jsou klidné (studené), proto všechny jejich plechovky mají na pozadí modrou barvu.
 - červená: vzrušující, anergická, prudká barva, která znázorňuje sebejistotu, troufalost
 
   Zde u loga Pepsi má znázorňovat spíše tu sebejistotu a energii. Lépe také díky této barvě logo vyniká, jeliž je to první barva, kterou zaregistruji.
