@@ -1,0 +1,16 @@
+.modre{
+    color: blue;
+}
+.cervene{
+    color: red;
+}
+.zelene{
+    color: yellowgreen;
+}
+.zadkovani-velke{
+    line-height: 200%;
+}
+p.male{
+    line-height: 100%;
+    font-size: 50%;
+}
