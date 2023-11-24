@@ -32,6 +32,13 @@
     id aspernatur alias est, in sequi, saepe ex delectus, natus
     tempora odit dignissimos maxime!</p>
 
+    <button onclick="zmen()">Zmackni me</button>
+    <img id="obr01" src="https://place-hold.it/200x100/ff0000" alt="test" style="width: 20%; max-width: 400px; display: none;">
+
+    <img src="https://place-hold.it/200x100/0000FF" alt="test" style="width: 20%; max-width: 400px; padding: 10px; border: 2px solid; border-color: black;">
+
+    <img src="https://place-hold.it/200x100/008000" alt="test" style="width: 20%; max-width: 400px;"><br>
+
     <p class="cervene male">Lorem ipsum dolor sit amet
     consectetur adipisicing elit. Unde rem ex enim velit laborum
     labore beatae, voluptatibus dolorem fuga excepturi voluptate
@@ -43,5 +50,20 @@
     nulla quidem eos excepturi! At eos tenetur adipisci, 
     officia error eligendi. A, eius?</p>
 </div>
+<script>
+  var otevreno = false;
+  function zmen(){
+    const el = document.getElementById("obr01");
+    otevreno = !otevreno
+    console.log(otevreno);
+    console.log(el);
+
+    if(otevreno){
+      el.style.display = "block";
+    } else {
+      el.style.display = "none";
+    }
+}
+</script>
   </body>
 </html>
