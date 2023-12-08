@@ -1,0 +1,24 @@
+.modre{
+    color: blue;
+}
+.cervene{
+    color: red;
+}
+.zelene{
+    color: yellowgreen;
+}
+.radkovani-velke{
+    line-height: 200%;
+}
+p{
+    line-height: 150%;
+
+}
+p.male{
+    line-height: 100%;
+    font-size: 50%;
+}
+img {
+    display: block;
+    margin-top: 10px;
+}
